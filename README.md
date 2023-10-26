@@ -7,14 +7,21 @@
 
 - 🔭 I’m currently working on **AI and ML Projects**
 
-- 📝  I successfully executed a Project aimed at **Enhancing Misinformation Detection**
+- 🤖 I developed a Generative AI application [A Chat Bot](https://allenjeriel.ccbp.tech/)
+
+- 📝 I successfully executed a Project aimed at **Enhancing Misinformation Detection**
 
 - 👨‍💻 I completed a Project on [Autism Prediction](https://github.com/AllenJeriel/Autism-Prediction)
 
-- 🤝 I successfully carried out a Project focused on the development of Talk Mail.
+- 📧 I successfully carried out a Project focused on the development of Talk Mail.
 
-- 🚀 I initiated a Mini Project called [URL shortener]
-(https://github.com/AllenJeriel/URL-Shortener)
+- 🚀 I initiated a Mini Project called [URL shortener](https://github.com/AllenJeriel/URL-Shortener)
+
+- 🔧 I implemented a Data Migration project using **Azure Data Factory**
+
+- 🎓 I successfully achieved the Alteryx Foundation certification.
+
+- 📚 I successfully finished a course on the First principles of computer vision.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
