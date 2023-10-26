@@ -13,6 +13,9 @@
 
 - 🤝 I successfully carried out a Project focused on the development of Talk Mail.
 
+- 🚀 I initiated a Mini Project called [URL shortener]
+(https://github.com/AllenJeriel/URL-Shortener)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/allenjeriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allenjeriel" height="30" width="40" /></a>
