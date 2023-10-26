@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **AI and ML Projects**
 
-- 📝 I completed a Project on **Enhancing Misinformation Detection**
+- 📝  I successfully executed a Project aimed at **Enhancing Misinformation Detection**
 
 - 👨‍💻 I completed a Project on [Autism Prediction](https://github.com/AllenJeriel/Autism-Prediction)
 
-- 🤝 I completed a Project on **Talk Mail**
+- 🤝 I successfully carried out a Project focused on the development of Talk Mail.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
