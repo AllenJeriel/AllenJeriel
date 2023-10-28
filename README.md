@@ -13,7 +13,7 @@
 
 - 👨‍💻 I completed a Project on [Autism Prediction](https://github.com/AllenJeriel/Autism-Prediction)
 
-- 📧 I successfully carried out a Project focused on the development of Talk Mail.
+- 📧 I successfully carried out a Project focused on the development of [Talk Mail](https://github.com/AllenJeriel/Talk-Mail)
 
 - 🚀 I initiated a Mini Project called [URL shortener](https://github.com/AllenJeriel/URL-Shortener)
 
